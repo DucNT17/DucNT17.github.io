@@ -897,13 +897,3 @@ section{
 .snowman img{
     width: 100px;
 }
-marquee{
-    position: absolute;
-    top: 0;
-    left: 0;
-    color: #fff;
-    font-size: 18px;
-    padding: 5px;
-    font-family: 'Roboto', sans-serif;
-    background: rgba(0, 0, 0, 0.3);
-}
